@@ -9,7 +9,7 @@
   </p>
 
   <p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Schinor&theme=2077" alt="Perfil" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Schinor&theme=default" alt="Perfil" />
   </p>
   <p>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Schinor&theme=2077" alt="Linguagens" />
