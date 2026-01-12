@@ -60,6 +60,6 @@ Atualmente sou <strong>Estagiário na Gattaz Health</strong>, focado na estrutur
 
 <h3 align="center">📊 Estatísticas do GitHub</h3>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcio-mazega&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Márcio's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcio-mazega&layout=compact&theme=dracula&hide=dart,css,html,jupyter%20notebook" alt="Márcio's Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Schinor&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Márcio's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schinor&layout=compact&theme=dracula&hide=dart,css,html,jupyter%20notebook" alt="Márcio's Top Languages"/>
 </p>
