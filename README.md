@@ -9,11 +9,11 @@
   </p>
 
   <p>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Schinor&theme=default" alt="Perfil" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Schinor&theme=2077" alt="Perfil" />
   </p>
   <p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Schinor&theme=2077" alt="Linguagens" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Schinor&theme=2077" alt="Estatísticas" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Schinor&theme=2077" alt="Linguagens" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Schinor&theme=2077" alt="Estatísticas" />
   </p>
 </div>
 
