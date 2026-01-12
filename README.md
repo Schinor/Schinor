@@ -8,13 +8,19 @@
     Transformando dados em inteligência. 🚀
   </p>
 
-  <p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Schinor&theme=2077" alt="Perfil" />
-  </p>
-  <p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Schinor&theme=2077" alt="Linguagens" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Schinor&theme=2077" alt="Estatísticas" />
-  </p>
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/Schinor/Schinor/main/profile-summary-card-output/2077/0-profile-details.svg" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Schinor/Schinor/main/profile-summary-card-output/2077/2-most-commit-language.svg" alt="Most Commited Langs" />
+  
+  <img src="https://raw.githubusercontent.com/Schinor/Schinor/main/profile-summary-card-output/2077/3-stats.svg" alt="Stats Radar" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Schinor/Schinor/main/profile-summary-card-output/2077/1-repos-per-language.svg" alt="Repos per Language" />
+</p>
 </div>
 
 <br>
