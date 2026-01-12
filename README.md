@@ -20,7 +20,7 @@
 <br>
 
 <h3 align="left">My range of skills:</h3>
-<div align="left">
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,angular,mysql,postgres,docker,git,idea,vscode&theme=dark" />
   </a>
@@ -29,7 +29,7 @@
 <br>
 
 <h3 align="left">Contact:</h3>
-<div align="left">
+<div align="center">
   <a href="https://instagram.com/marciogschinor" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
