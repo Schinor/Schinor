@@ -1,18 +1,18 @@
 <div align="center">
-  <h1>Olá, eu sou o Márcio! 👋</h1>
+  <h1>Olá, eu sou o Márcio!</h1>
   <h3>TSI @ Fatec Pompeia | Estagiário @ Gattaz Health</h3>
   
   <p>
     Focado em <b>Data Science</b>, estruturação de dados e <b>Full Stack</b>.
     <br>
-    Transformando dados em inteligência. 🚀
+    Transformando dados em inteligência.
   </p>
   <p align="center">
-    🔭 <strong>Atualmente trabalhando em:</strong> Estruturação de dados e automação de processos.<br>
-    🌱 <strong>Aprendendo:</strong> Machine Learning, Java (POO) e Arquitetura de Dados.<br>
-    🏆 <strong>Conquistas:</strong> 3º Lugar no DSIN Coder Challenge (Lógica de Programação).<br>
-    🎓 <strong>Projetos Recentes:</strong> Automação de análise de acidentes (PRF) e Projeto Canna (bengala multissensorial).<br>
-    💼 <strong>Investimentos:</strong> Entusiasta de FIIs, Ações e Criptomoedas.
+    <strong>Atualmente trabalhando em:</strong> Estruturação de dados e automação de processos.<br>
+    <strong>Aprendendo:</strong> Machine Learning, Java (POO) e Arquitetura de Dados.<br>
+    <strong>Conquistas:</strong> 3º Lugar no DSIN Coder Challenge (Lógica de Programação).<br>
+    <strong>Projetos Recentes:</strong> Automação de análise de acidentes (PRF) e Projeto Central Agro (Central de dados para fazendeiros).<br>
+    <strong>Investimentos:</strong> Entusiasta de FIIs, Ações e Criptomoedas.
 </p>
 
  <p align="center">
