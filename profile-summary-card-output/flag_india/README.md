@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/Schinor/Schinor/main/profile-summary-card-output/flag_india/4-productive-time.svg)
+```
+
+    
