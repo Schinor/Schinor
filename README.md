@@ -1,79 +1,93 @@
-<div align="center">
-  <h1>Olá, eu sou o Márcio Mazega! 👋</h1>
-  <h3>Data Engineering & Backend Intern @ Gattaz Health | TSI @ Fatec Pompeia</h3>
-  
-  <p>
-    Construindo a ponte entre dados brutos e decisões estratégicas. 
-    <br>
-    Focado em <b>Engenharia de Dados</b>, <b>Machine Learning</b> e desenvolvimento <b>Full Stack</b> para me tornar um Full Cycle Data Scientist.
-  </p>
+### 👋 Olá! Eu sou o Marcio Mazega 😊 | Hi there! I'm Marcio Mazega 👋
 
-  <p align="center">
-    <strong>Atualmente:</strong> Projetando pipelines de ETL, desenvolvendo APIs e estruturando dados relacionais.<br>
-    <strong>Estudando:</strong> Machine Learning, Java (POO), Angular e Arquitetura de Software.<br>
-    <strong>Destaques:</strong> 3º Lugar no DSIN Coder Challenge | Coautor de capítulos de livros científicos.<br>
-    <strong>Além do código:</strong> Entusiasta do mercado financeiro (Ações, FIIs e Cripto) e inovação.
-  </p>
+<div align="center">
+  <a href="https://github.com/Schinor">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Schinor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schinor&layout=compact&langs_count=16&theme=tokyonight"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="profile-summary-card-output/2077/0-profile-details.svg" height="150em" />
+  <img src="profile-summary-card-output/2077/2-most-commit-language.svg" height="150em" />
+  <img src="profile-summary-card-output/2077/3-stats.svg" height="150em" />
 </div>
 
 ---
 
-### 🚀 Projetos em Destaque
+### 💼 Sobre mim | About Me
 
-Aqui estão alguns dos projetos que demonstram minha jornada de ponta a ponta com dados e desenvolvimento de software:
+Sou **Data Engineering & Backend Intern** na **Gattaz Health** e graduando em **TSI na Fatec Pompeia**.  
+Construindo a ponte entre dados brutos e decisões estratégicas, com foco em se tornar um **Full Cycle Data Scientist**.
 
-#### 📊 1. [PRF Analytics Full Cycle](https://github.com/Schinor/PRF-Analytics-FullCycle) (Data Engineering & ETL)
-Pipeline completo de extração, transformação e carga de dados de acidentes da Polícia Rodoviária Federal.
-* **Stack:** Python, Web Scraping (BeautifulSoup/Selenium), Pandas, PostgreSQL.
-* **O que faz:** Coleta automatizada de dados brutos do portal da PRF, limpeza estruturada e armazenamento em banco relacional para consumo analítico de alto desempenho.
+Tenho experiência projetando pipelines de **ETL**, desenvolvendo **APIs** e estruturando dados relacionais.  
+Apaixonado por tecnologia, mercado financeiro (Ações, FIIs e Cripto) e inovação. 💻✨
 
-#### 🤖 2. [PRF Collision Predictor](https://github.com/Schinor/NOME-DO-REPO-AQUI) (Machine Learning)
-Modelo preditivo construído a partir da base de dados limpa e consolidada do projeto PRF Analytics.
-* **Stack:** Python, Scikit-Learn, Pandas, Matplotlib/Seaborn.
-* **O que faz:** Analisa o histórico de acidentes rodoviários para prever a severidade das ocorrências e identificar zonas de risco (Hot Zones) com base em variáveis climáticas, horários e geolocalização.
-
-#### ☕ 3. [Task Manager API](https://github.com/Schinor/To-Do-Java-Spring-Boot) (Backend & POO)
-API RESTful robusta para gerenciamento de tarefas, aplicando os princípios fundamentais de orientação a objetos.
-* **Stack:** Java, Spring Boot, PostgreSQL, Docker.
-* **O que faz:** Sistema de CRUD completo focado em escalabilidade, arquitetura limpa e boas práticas de design de software.
-
-#### 🔴 4. [Angular Pokédex](https://github.com/Schinor/Pokedex) (Frontend)
-Aplicação web interativa para consumo e renderização assíncrona de dados de uma API externa.
-* **Stack:** Angular, TypeScript, HTML5, CSS3.
-* **O que faz:** Consome a PokéAPI para exibir informações detalhadas, aplicando conceitos vitais de componentes, injeção de dependências, serviços e roteamento.
+🏆 **Destaques:** 3º Lugar no DSIN Coder Challenge | Coautor de capítulos de livros científicos.
 
 ---
 
-<div align="center">
-  <h3>📈 GitHub Analytics</h3>
-  <p>
-    <img src="https://raw.githubusercontent.com/Schinor/Schinor/main/profile-summary-card-output/2077/0-profile-details.svg" alt="Profile Details" />
-  </p>
-  <p>
-    <img src="https://raw.githubusercontent.com/Schinor/Schinor/main/profile-summary-card-output/2077/2-most-commit-language.svg" alt="Most Commited Langs" />
-    <img src="https://raw.githubusercontent.com/Schinor/Schinor/main/profile-summary-card-output/2077/3-stats.svg" alt="Stats Radar" />
-  </p>
-  <p>
-    <img src="https://raw.githubusercontent.com/Schinor/Schinor/main/profile-summary-card-output/2077/1-repos-per-language.svg" alt="Repos per Language" />
-  </p>
-</div>
+### 🧰 Tecnologias do meu dia a dia | Daily Tech Stack
 
-<br>
+<div style="display: inline_block" align="center">
+  <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="SQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="Pandas" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+  <img align="center" alt="Scikit-Learn" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" />
+  <img align="center" alt="FastAPI" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
+  <img align="center" alt="Spring Boot" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="center" alt="Angular" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  <img align="center" alt="Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img align="center" alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</div>  
 
-<h3 align="left">🛠️ Tecnologias e Ferramentas:</h3>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,angular,mysql,postgres,docker,git,idea,vscode&theme=dark" />
+---
+
+### 🧠 Atualmente estudando | Currently Learning
+- 🔹 **Machine Learning** — Modelagem preditiva e análise de dados avançada.
+- 🔹 **Java (POO)** — APIs RESTful robustas com Spring Boot.
+- 🔹 **Angular** — Desenvolvimento de interfaces dinâmicas e reativas.
+- 🔹 **Arquitetura de Software** — Padrões de projeto e sistemas escaláveis.
+
+---
+
+### 🚀 Projetos em Destaque | Featured Projects
+
+📊 **1. [PRF Analytics Full Cycle](https://github.com/Schinor)** (Data Engineering & ETL)  
+Pipeline completo de extração, transformação e carga de dados de acidentes da Polícia Rodoviária Federal.  
+*Stack: Python, Web Scraping (BeautifulSoup/Selenium), Pandas, PostgreSQL.*
+
+🤖 **2. [PRF Collision Predictor](https://github.com/Schinor)** (Machine Learning)  
+Modelo preditivo construído a partir da base de dados limpa e consolidada do projeto PRF Analytics.  
+*Stack: Python, Scikit-Learn, Pandas, Matplotlib/Seaborn.*
+
+☕ **3. [Task Manager API](https://github.com/Schinor)** (Backend & POO)  
+API RESTful robusta para gerenciamento de tarefas, aplicando os princípios fundamentais de orientação a objetos.  
+*Stack: Java, Spring Boot, PostgreSQL, Docker.*
+
+🔴 **4. [Angular Pokédex](https://github.com/Schinor)** (Frontend)  
+Aplicação web interativa para consumo e renderização assíncrona de dados de uma API externa.  
+*Stack: Angular, TypeScript, HTML5, CSS3.*
+
+---
+
+### 🌐 Onde me encontrar | Find me online
+
+<div>
+  <a href="https://www.linkedin.com/in/marcio-mazega" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:marciomazegaa@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
 
-<br>
+---
 
-<h3 align="left">📫 Contato:</h3>
-<div align="center">
-  <a href="https://instagram.com/marciogschinor" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://linkedin.com/in/marcio-mazega" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+<img align="right" alt="coding-gif" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280px" height="230px" style="box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3); border-radius: 8px;">
+
+✨ “Construindo a ponte entre dados brutos e decisões estratégicas.”  
+✨ “Building the bridge between raw data and strategic decisions.”
+
+---
