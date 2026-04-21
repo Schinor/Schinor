@@ -8,9 +8,9 @@
 </div>
 
 <div align="center">
-  <img src="profile-summary-card-output/2077/0-profile-details.svg" height="150em" />
-  <img src="profile-summary-card-output/2077/2-most-commit-language.svg" height="150em" />
-  <img src="profile-summary-card-output/2077/3-stats.svg" height="150em" />
+  <img src="https://raw.githubusercontent.com/Schinor/Schinor/main/profile-summary-card-output/tokyonight/0-profile-details.svg" height="150em" />
+  <img src="https://raw.githubusercontent.com/Schinor/Schinor/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" height="150em" />
+  <img src="https://raw.githubusercontent.com/Schinor/Schinor/main/profile-summary-card-output/tokyonight/3-stats.svg" height="150em" />
 </div>
 
 ---
