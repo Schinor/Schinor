@@ -153,17 +153,17 @@ Minha base metodológica foi consolidada por **bolsas FAPESP e CNPq**, co-autori
 
 ## 🗂️ Experiência Profissional
 
-**🏥 Gattaz Health** — *Estagiário de Dados e Desenvolvimento* `Fev 2026 – Atual | São Paulo, SP (Remoto)`
+**🏥 Gattaz Health** — *Estagiário de Dados e Desenvolvimento* `Fev 2026 – Jun 2026 | São Paulo, SP (Remoto)`
 > Engenharia e manutenção de pipelines ETL em Python · Modelagem PostgreSQL · APIs RESTful com FastAPI · Redesign de schema de banco de dados clínicos · Alimentação de painéis de BI
 
-**🌱 Centro Avançado de Pesquisa Smart B100 (FAPESP)** — *Pesquisador de IC* `Jan 2024 – Jan 2025 | Remoto`
+**🌱 Centro Avançado de Pesquisa Smart B100 (FAPESP)** — *Pesquisador de IC* `Ago 2025 – Fev 2026 | Remoto`
 > Pesquisa em Living Labs · Estruturação de dados do ecossistema digital rural · Análise de tecnologias AgTech
 
-**🔭 OBA — Olimpíada Brasileira de Astronomia (CNPq)** — *Pesquisador Júnior* `Fev 2025 – Set 2025 | Tupã, SP`
-> Programa de Iniciação Científica Júnior · 12 meses de duração · Rigor científico e modelagem de soluções complexas
-
-**🏢 Abens Corretora de Seguros** — *Estagiário Administrativo* `Set 2025 – Fev 2026 | Pompeia, SP`
+**🏢 Abens Corretora de Seguros** — *Estagiário Administrativo* `Fev 2025 – Ago 2025 | Pompeia, SP`
 > Otimização de fluxos operacionais digitais · Organização analítica de bases de dados de clientes
+
+**🔭 OBA — Olimpíada Brasileira de Astronomia (CNPq)** — *Pesquisador Júnior* `Jan 2024 – Jan 2025 | Tupã, SP`
+> Programa de Iniciação Científica Júnior · 12 meses de duração · Rigor científico e modelagem de soluções complexas
 
 ---
 
