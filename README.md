@@ -21,7 +21,7 @@ marcio = {
     "nome":        "Marcio Gabriel Schinor Mazega",
     "localização": "Tupã → Pompeia, SP — Brasil",
     "formação":    "TSI — Fatec Shunji Nishimura (2025–2027)",
-    "empresa":     "Gattaz Health | Data Engineering & Backend Intern",
+    "empresa":     "Estudante - Pesquisador",
     "foco":        ["Engenharia de Dados", "Machine Learning", "APIs RESTful", "BI"],
     "objetivo":    "Full Cycle Data Scientist",
     "pesquisa":    ["FAPESP — Smart B100 (AgTech)", "CNPq — OBA (Astronomia)"],
@@ -33,7 +33,7 @@ marcio = {
 
 ## 🧠 Sobre Mim
 
-Sou desenvolvedor com foco em **Engenharia de Dados e Backend**, atuando na [Gattaz Health](https://www.linkedin.com/in/marcio-mazega) na estruturação de pipelines ETL, modelagem de bancos de dados clínicos e criação de APIs que alimentam soluções analíticas reais.
+Sou desenvolvedor com foco em **Engenharia de Dados e Backend**, com o intuito de me tornar um Full Cycle Data Scientist. Estou, atualmente, atuando como [estudante e pesquisador](https://www.linkedin.com/in/marcio-mazega) na estruturação de pipelines ETL, modelagem de bancos de dados relacionais e criação de APIs que alimentam soluções analíticas reais.
 
 Minha base metodológica foi consolidada por **bolsas FAPESP e CNPq**, co-autoria de publicações acadêmicas e premiações em competições técnicas entre Fatecs. Tenho um perfil altamente analítico, voltado para transformar dados brutos em inteligência acionável.
 
@@ -134,9 +134,9 @@ Minha base metodológica foi consolidada por **bolsas FAPESP e CNPq**, co-autori
 | ✅ | Banco de Dados Relacional com SQL | EncData — Fatec Pompeia | 2025 |
 | ✅ | Python | Santander / DIO | 2025 |
 | ✅ | Escola de Inovadores | INOVA CPS | 2025 |
+| ✅ | Ciência de Dados com Python | Santander / DIO | 2026 |
 | 🔄 | ML Specialist | DIO | Em andamento |
 | 🔄 | GenAI & Dados | Bradesco | Em andamento |
-| 🔄 | Ciência de Dados com Python | Santander / DIO | Em andamento |
 
 ---
 
@@ -145,7 +145,6 @@ Minha base metodológica foi consolidada por **bolsas FAPESP e CNPq**, co-autori
 ```
 ├── ML Specialist (DIO)         → Modelagem preditiva avançada e deploy de modelos
 ├── GenAI & Dados (Bradesco)    → IA Generativa aplicada a pipelines de dados
-├── Ciência de Dados (Santander)→ Análise estatística, visualização e storytelling
 └── SQL Specialist              → Otimização de queries e modelagem relacional avançada
 ```
 
