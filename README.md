@@ -171,7 +171,7 @@ Minha base metodológica vem da pesquisa: **bolsista FAPESP** (Living Labs no ag
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Schinor/Schinor/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Schinor/Schinor/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Schinor/Schinor/output/github-snake.svg" />
     <img alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/Schinor/Schinor/output/github-snake.svg" />
   </picture>
